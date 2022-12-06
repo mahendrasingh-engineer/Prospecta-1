@@ -1,0 +1,14 @@
+3) Question: what are the key things you would consider when creating/consuming an API to ensure that it is secure and reliable
+
+ans=====>  to secure that an API is secure and reliable I will 
+			try to use a key or password with that API to ensure the authenticity
+			of the user. And will use data encryption and decryption to make api more secure.  
+			
+			[12:49] Shivika Rana
+		    shivika.rana@prospecta.com
+			​[12:50] Shivika Rana
+		    ainitom.das@masaischool.com
+			
+			
+			
+			
